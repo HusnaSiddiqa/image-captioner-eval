@@ -1,5 +1,7 @@
 # 🖼️ Image Captioner + caption-quality evaluation
 
+**[🚀 Try the live demo](https://huggingface.co/spaces/HusnaSiddiqa/image-captioner)**
+
 Upload any image, optionally add a prompt, and get a caption (pre-trained BLIP).
 On top of the app sits the real focus of the project: a **rigorous
 evaluation-and-experimentation pipeline** that measures caption quality across
